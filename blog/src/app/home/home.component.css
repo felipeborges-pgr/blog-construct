@@ -1,0 +1,10 @@
+.parallax {
+    background-image: url('https://cdn.pixabay.com/photo/2018/05/08/08/44/artificial-intelligence-3382507_960_720.jpg');
+    min-height: 500px;
+    min-width: 970px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
